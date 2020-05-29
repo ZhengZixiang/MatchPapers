@@ -24,3 +24,4 @@
 - [coolhok / faiss-learning学习文档](https://github.com/coolhok/faiss-learning)
 - [liqima / Faiss wiki in Chinese](https://github.com/liqima/faiss_note)
 - [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
+- [邓邓最棒 / 海量文本求topk相似：faiss库初探](https://mp.weixin.qq.com/s/lS4sn1BFf-kvEKi4Ve74pQ)
