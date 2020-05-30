@@ -1,6 +1,6 @@
 # MatchPapers
 
-文本匹配是一项自然语言理解任务，包括自然语言推断、问答匹配、近似句搜索等多种应用场景
+文本匹配是一项自然语言理解任务，包括自然语言推断、问答匹配、信息检索等多种应用场景
 
 ## Papers
 - Product Quantization for Nearest Neighbor Search (IEEE Transactions on Pattern Analysis and Machine Intelligence 2011) [[paper]](https://hal.inria.fr/file/index/docid/514462/filename/paper_hal.pdf) - ***PQ***
@@ -21,8 +21,11 @@
 - [erikbern / ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
 
 ## Articles/Posts
+### Chinese
 - [coolhok / faiss-learning学习文档](https://github.com/coolhok/faiss-learning)
 - [liqima / Faiss wiki in Chinese](https://github.com/liqima/faiss_note)
 - [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
 - [邓邓最棒 / 海量文本求topk相似：faiss库初探](https://mp.weixin.qq.com/s/lS4sn1BFf-kvEKi4Ve74pQ)
 - [科学空间 / 从EMD、WMD到WRD：文本向量序列的相似度计算](https://kexue.fm/archives/7388)
+- [丁香园 / 丁香园在语义匹配任务上的探索与实践](https://zhuanlan.zhihu.com/p/69356170)
+- [丁香园 / 搜索中的Query扩展技术](https://zhuanlan.zhihu.com/p/138551957)
