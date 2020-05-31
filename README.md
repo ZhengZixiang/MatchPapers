@@ -3,6 +3,7 @@
 文本匹配是一项自然语言理解任务，包括自然语言推断、问答匹配、信息检索等多种应用场景
 
 ## Papers
+- Detecting Near-Duplicates for Web Crawling (WWW 2017) [[paper]](http://www.wwwconference.org/www2007/papers/paper215.pdf) - ***Simhash***
 - Product Quantization for Nearest Neighbor Search (IEEE Transactions on Pattern Analysis and Machine Intelligence 2011) [[paper]](https://hal.inria.fr/file/index/docid/514462/filename/paper_hal.pdf) - ***PQ***
 - ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms (Information Systems 2019) [[paper]](https://arxiv.org/abs/1807.05614)[[code]](https://github.com/erikbern/ann-benchmarks)
 
@@ -12,7 +13,10 @@
 - [lanwuwei / SPM_toolkit](https://github.com/lanwuwei/SPM_toolkit)
 - [pengming617 / text_matching](https://github.com/pengming617/text_matching)
 - [facebookresearch / Faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors
+- [yanyiwu / simhash](https://github.com/yanyiwu/simhash) - A C++ Implementation of Simhash for Chinese
 - [leonsim / simhash](https://github.com/leonsim/simhash) - A Python Implementation of Simhash Algorithm
+- [Spotify / Annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+- [aaalgo / KGraph](https://github.com/aaalgo/kgraph) - A Library for Approximate Nearest Neighbor Search
 - [kayzhu / LSHash](https://github.com/kayzhu/LSHash) - A fast Python implementation of LSH
 - [pixelogik / NearPy](https://github.com/pixelogik/NearPy) - Python framework for fast ANN search in large, high-dimensional datasets
 - [primetang / pyflann](https://github.com/primetang/pyflann) - python bindings for FLANN
