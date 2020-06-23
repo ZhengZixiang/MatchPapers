@@ -11,9 +11,11 @@
 ## Repositories/Resources
 - [NTMC-Community / MatchZoo](https://github.com/NTMC-Community/MatchZoo)
 - [NTMC-Community / MatchZoo-py](https://github.com/NTMC-Community/MatchZoo-py)
-- [zhaogaofeng611 / TextMatch](https://github.com/zhaogaofeng611/TextMatch) - 基于Pytorch的中文语义相似度匹配模型
 - [lanwuwei / SPM_toolkit](https://github.com/lanwuwei/SPM_toolkit)
 - [pengming617 / text_matching](https://github.com/pengming617/text_matching)
+- [THUNLP / OpenMatch](https://github.com/thunlp/OpenMatch)
+- [shenweichen / DeepMatch](https://github.com/shenweichen/DeepMatch)
+- [zhaogaofeng611 / TextMatch](https://github.com/zhaogaofeng611/TextMatch) - 基于Pytorch的中文语义相似度匹配模型
 
 ### ANN
 - [aaalgo / KGraph](https://github.com/aaalgo/kgraph) - A Library for Approximate Nearest Neighbor Search
@@ -27,6 +29,7 @@
 - [pixelogik / NearPy](https://github.com/pixelogik/NearPy) - Python framework for fast ANN search in large, high-dimensional datasets
 - [primetang / pyflann](https://github.com/primetang/pyflann) - python bindings for FLANN
 - [Spotify / Annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+- [Vearch / Vearch](https://github.com/vearch/vearch) - A distributed system for efficient similarity search of embedding vectors
 - [yanyiwu / simhash](https://github.com/yanyiwu/simhash) - A C++ Implementation of Simhash for Chinese
 - [matsui528 / Rii](https://github.com/matsui528/rii) - IVFPQ-based fast and memory efficient ANN search method with a subset-search functionality
 - [mukul5sharma / SearchEngine](https://github.com/mukul5sharma/SearchEngine) - A simple search engine using BM25 ranking algorithm
