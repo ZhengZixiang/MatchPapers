@@ -44,14 +44,15 @@
 
 ## Articles/Posts
 ### Chinese
+- [阿里 / 神马搜索如何提升搜索的时效性？](https://mp.weixin.qq.com/s?__biz=MzU5ODUxNzEyNA==&mid=2247486440&idx=1&sn=1b16a5a1c50ac4b7b5772746cff00239&chksm=fe43bf03c9343615c3e2e357858510081f01dfd53a8efcd9868e98d37411499d82ac17fe78ab&mpshare=1&scene=1&srcid=&sharer_sharetime=1593581511883&sharer_shareid=aaa99b8738c1d6c23f064aa833392e12&key=7332e1fe92797b0dfacc2584cb5fa656a9d4f63c1617ec6a105cdccd3f1221d8fb326c240f67966115c2e3b8449e47e75d6c4f76d96e5728b95fb465947a680cda987fee39bb0c3e0667abedb8f7f4e3&ascene=1&uin=Mjg1NTM0NDcyMw%3D%3D&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AxwRTPrVyBTDHxYD%2FlxGSJw%3D&pass_ticket=5Y5bD3DNxLYgw6cCdFKC63ta6u65HT0Q%2FaW3BTTRDQXXvvbOiMcDHlnYR607tPf3)
 - [coolhok / faiss-learning学习文档](https://github.com/coolhok/faiss-learning)
+- [邓邓最棒 / 海量文本求topk相似：faiss库初探](https://mp.weixin.qq.com/s/lS4sn1BFf-kvEKi4Ve74pQ)
 - [Dezhi Ye / Embedding-based Retrieval in Facebook Search论文解读](https://zhuanlan.zhihu.com/p/152570715)
+- [科学空间 / 从EMD、WMD到WRD：文本向量序列的相似度计算](https://kexue.fm/archives/7388)
 - [liqima / Faiss wiki in Chinese](https://github.com/liqima/faiss_note)
 - [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
-- [邓邓最棒 / 海量文本求topk相似：faiss库初探](https://mp.weixin.qq.com/s/lS4sn1BFf-kvEKi4Ve74pQ)
-- [科学空间 / 从EMD、WMD到WRD：文本向量序列的相似度计算](https://kexue.fm/archives/7388)
 - [叉烧 / ACL2020 | 线上搜索结果大幅提升！亚马逊提出对抗式query-doc相关性模型](https://zhuanlan.zhihu.com/p/144911605)
 - [丁香园 / 丁香园在语义匹配任务上的探索与实践](https://zhuanlan.zhihu.com/p/69356170)
 - [丁香园 / 搜索中的Query扩展技术](https://zhuanlan.zhihu.com/p/138551957)
-- [知乎 / Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247496409&idx=1&sn=7b2f5984d71454e1a2812321f6018cf8&scene=21#wechat_redirect)
 - [腾讯 / 移动腾讯网召回算法实践总结](https://zhuanlan.zhihu.com/p/139256086)
+- [知乎 / Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247496409&idx=1&sn=7b2f5984d71454e1a2812321f6018cf8&scene=21#wechat_redirect)
