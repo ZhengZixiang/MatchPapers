@@ -1,13 +1,21 @@
 # MatchPapers
+Worth-reading papers and related awesome resources on matching task. Matching task is common in many tasks, like natural language inference (NLI), question answering (QA), recommendation system (RecSys), information retrieval (IR) and advertising. This repository also contains many relative research field of this task, including approximately approximate nearest neighbor (ANN), text matching algorithm, CTR and so on.
 
-文本匹配是一项自然语言理解任务，包括自然语言推断、问答匹配、信息检索等多种应用场景
+Suggestions about adding papers, repositories and other resources are welcomed! 
+
+*Since I am Chinese, I mainly focus on Chinese resources. Welcome to recommend excellent resources in English or other languages!*
+
+值得一读的匹配任务相关论文与资源集合。匹配任务常见于自然语言推断、问答、推荐系统、信息检索、广告等场景。本仓库还包含该任务的许多相关研究领域，包括最近邻搜索、文本匹配算法和CTR等。
+
+欢迎新增论文、代码仓库与其他资源等建议！
 
 ## Papers
-- Detecting Near-Duplicates for Web Crawling (WWW 2007) [[paper]](http://www.wwwconference.org/www2007/papers/paper215.pdf) - ***Simhash***
-- Product Quantization for Nearest Neighbor Search (IEEE Transactions on Pattern Analysis and Machine Intelligence 2011) [[paper]](https://hal.inria.fr/file/index/docid/514462/filename/paper_hal.pdf) - ***PQ***
-- ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms (Information Systems 2019) [[paper]](https://arxiv.org/abs/1807.05614)[[code]](https://github.com/erikbern/ann-benchmarks)
-- Learning Robust Models for e-Commerce Product Search (ACL 2020) [[paper]](https://arxiv.org/abs/2005.03624) - ***QUARTS***
-- Embedding-based Retrieval in Facebook Search (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
+- **Detecting Near-Duplicates for Web Crawling**. *Gurmeet Singh Manku, Arvind  Jain profile, Anish Das Sarma*.
+ (WWW 2007) [[paper]](http://www.wwwconference.org/www2007/papers/paper215.pdf) - ***Simhash***
+- **Product Quantization for Nearest Neighbor Search**. *Hervé Jégou, Matthijs Douze, Cordelia Schmid*. (IEEE Transactions on Pattern Analysis and Machine Intelligence 2011) [[paper]](https://hal.inria.fr/file/index/docid/514462/filename/paper_hal.pdf) - ***PQ***
+- **ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms**. *Martin Aumüller, Erik Bernhardsson, Alexander Faithfull*. (Information Systems 2019) [[paper]](https://arxiv.org/abs/1807.05614)[[code]](https://github.com/erikbern/ann-benchmarks)
+- **Learning Robust Models for e-Commerce Product Search**. *Thanh V. Nguyen, Nikhil Rao, Karthik Subbian*. (ACL 2020) [[paper]](https://arxiv.org/abs/2005.03624) - ***QUARTS***
+- **Embedding-based Retrieval in Facebook Search**. *Jui-Ting Huang, Ashish Sharma, Shuying Sun, Li Xia, David Zhang, Philip Pronin, Janani Padmanabhan, Giuseppe Ottaviano, Linjun Yang*. (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
 
 ## Survey/Tutorial
 - Deep Learning for Matching in Search and Recommendation (SIGIR 2018) [[slides]](http://staff.ustc.edu.cn/~hexn/sigir18-deep.pdf)[[paper]](https://dl.acm.org/doi/pdf/10.1145/3209978.3210181)
@@ -45,15 +53,22 @@
 
 ## Articles/Posts
 ### Chinese
-- [阿里 / 神马搜索如何提升搜索的时效性？](https://mp.weixin.qq.com/s?__biz=MzU5ODUxNzEyNA==&mid=2247486440&idx=1&sn=1b16a5a1c50ac4b7b5772746cff00239&chksm=fe43bf03c9343615c3e2e357858510081f01dfd53a8efcd9868e98d37411499d82ac17fe78ab&mpshare=1&scene=1&srcid=&sharer_sharetime=1593581511883&sharer_shareid=aaa99b8738c1d6c23f064aa833392e12&key=7332e1fe92797b0dfacc2584cb5fa656a9d4f63c1617ec6a105cdccd3f1221d8fb326c240f67966115c2e3b8449e47e75d6c4f76d96e5728b95fb465947a680cda987fee39bb0c3e0667abedb8f7f4e3&ascene=1&uin=Mjg1NTM0NDcyMw%3D%3D&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AxwRTPrVyBTDHxYD%2FlxGSJw%3D&pass_ticket=5Y5bD3DNxLYgw6cCdFKC63ta6u65HT0Q%2FaW3BTTRDQXXvvbOiMcDHlnYR607tPf3)
+- [阿里 / 神马搜索如何提升搜索的时效性？](https://mp.weixin.qq.com/s/WpITPvYmixMHa0ha0MgWVA)
 - [coolhok / faiss-learning学习文档](https://github.com/coolhok/faiss-learning)
-- [邓邓最棒 / 海量文本求topk相似：faiss库初探](https://mp.weixin.qq.com/s/lS4sn1BFf-kvEKi4Ve74pQ)
-- [Dezhi Ye / Embedding-based Retrieval in Facebook Search论文解读](https://zhuanlan.zhihu.com/p/152570715)
-- [科学空间 / 从EMD、WMD到WRD：文本向量序列的相似度计算](https://kexue.fm/archives/7388)
-- [liqima / Faiss wiki in Chinese](https://github.com/liqima/faiss_note)
-- [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
 - [叉烧 / ACL2020 | 线上搜索结果大幅提升！亚马逊提出对抗式query-doc相关性模型](https://zhuanlan.zhihu.com/p/144911605)
+- [Dezhi Ye / Embedding-based Retrieval in Facebook Search论文解读](https://zhuanlan.zhihu.com/p/152570715)
+- [邓邓最棒 / 海量文本求topk相似：faiss库初探](https://mp.weixin.qq.com/s/lS4sn1BFf-kvEKi4Ve74pQ)
 - [丁香园 / 丁香园在语义匹配任务上的探索与实践](https://zhuanlan.zhihu.com/p/69356170)
 - [丁香园 / 搜索中的Query扩展技术](https://zhuanlan.zhihu.com/p/138551957)
+- [科学空间 / 从EMD、WMD到WRD：文本向量序列的相似度计算](https://kexue.fm/archives/7388)
+- [liqima / Faiss wiki in Chinese](https://github.com/liqima/faiss_note)
 - [腾讯 / 移动腾讯网召回算法实践总结](https://zhuanlan.zhihu.com/p/139256086)
-- [知乎 / Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247496409&idx=1&sn=7b2f5984d71454e1a2812321f6018cf8&scene=21#wechat_redirect)
+- [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
+- [一小撮人 / Fiass - Getting started](https://zhuanlan.zhihu.com/p/102278151)
+- [一小撮人 / Fiass - Faster search、Lower memory 、Run on GPUs](https://zhuanlan.zhihu.com/p/102281896)
+- [一小撮人 / Fiass - clustering, PCA, quantization](https://zhuanlan.zhihu.com/p/102287226)
+- [一小撮人 / Faiss - Guidelines to choose an index](https://zhuanlan.zhihu.com/p/102287915)
+- [一小撮人 / Faiss - Basic index](https://zhuanlan.zhihu.com/p/102573699)
+- [一小撮人 / Faiss - Binary indexes, Composite indexes](https://zhuanlan.zhihu.com/p/105214010)
+- [一小撮人 / Fiass - 常见问题总结](https://zhuanlan.zhihu.com/p/107241260)
+- [知乎 / Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/MAfK4B2F8sPXRLodXkwnmw)
