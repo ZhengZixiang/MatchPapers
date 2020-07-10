@@ -18,6 +18,7 @@
 - [NTMC-Community / MatchZoo-py](https://github.com/NTMC-Community/MatchZoo-py)
 - [lanwuwei / SPM_toolkit](https://github.com/lanwuwei/SPM_toolkit)
 - [pengming617 / text_matching](https://github.com/pengming617/text_matching)
+- [THUNLP / NeuIRPapers](https://github.com/thunlp/NeuIRPapers) - Must-read Papers on Neural Information Retrieval
 - [THUNLP / OpenMatch](https://github.com/thunlp/OpenMatch)
 - [shenweichen / DeepMatch](https://github.com/shenweichen/DeepMatch)
 - [ShuaichiLi / Chinese-sentence-similarity-task](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task) - 中文问题句子相似度计算比赛及方案汇总
