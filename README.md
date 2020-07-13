@@ -1,11 +1,11 @@
 # MatchPapers
-Worth-reading papers and related awesome resources on matching task. Matching task is common in many tasks, like natural language inference (NLI), question answering (QA), recommendation system (RecSys), information retrieval (IR) and advertising. This repository also contains many relative research field of this task, including approximately approximate nearest neighbor (ANN), text matching algorithm, CTR and so on.
+Worth-reading papers and related awesome resources on matching task. Matching task is common in many tasks, like natural language inference (NLI), question answering (QA), recommendation system (RecSys), information retrieval (IR) and advertising. This repository also contains many relative research field of this task, including approximately approximate nearest neighbor (ANN), text matching algorithm, CTR, LTR (learning-to-rank) and so on.
 
 Suggestions about adding papers, repositories and other resources are welcomed! 
 
 *Since I am Chinese, I mainly focus on Chinese resources. Welcome to recommend excellent resources in English or other languages!*
 
-值得一读的匹配任务相关论文与资源集合。匹配任务常见于自然语言推断、问答、推荐系统、信息检索、广告等场景。本仓库还包含该任务的许多相关研究领域，包括最近邻搜索、文本匹配算法和CTR等。
+值得一读的匹配任务相关论文与资源集合。匹配任务常见于自然语言推断、问答、推荐系统、信息检索、广告等场景。本仓库还包含该任务的许多相关研究领域，包括最近邻搜索、文本匹配算法和CTR、LTR等。
 
 欢迎新增论文、代码仓库与其他资源等建议！
 
@@ -14,11 +14,19 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **Match^2: A Matching over Matching Model for Similar Question Identification**. *Zizhen Wang, Yixing Fan, Jiafeng Guo, Liu Yang, Ruqing Zhang, Yanyan Lan, Xueqi Cheng, Hui Jiang, Xiaozhao Wang*. (SIGIR 2020) [[paper]](https://arxiv.org/abs/2006.11719) - ***Match^2***
 
 ### Recommadation System Matching
+- **CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks**. *Dong-Kyu Chae, Jinsoo  Kang, Sangwook  Kim, Jungtae  Lee*. (CIKM 2018) [[paper]](https://dl.acm.org/doi/10.1145/3269206.3271743)[[code]](https://github.com/ARASC/CFGAN)
 - **Multi-Interest Network with Dynamic Routing for Recommendation at Tmall**. *Chao Li, Zhiyuan Liu, Mengmeng Wu, Yuchi Xu, Pipei Huang, Huan Zhao, Guoliang Kang, Qiwei Chen, Wei Li, Dik Lun Lee*. (CIKM 2019) [[paper]](https://arxiv.org/abs/1904.08030) - ***MIND***
 - **Learning Robust Models for e-Commerce Product Search**. *Thanh V. Nguyen, Nikhil Rao, Karthik Subbian*. (ACL 2020) [[paper]](https://arxiv.org/abs/2005.03624) - ***QUARTS***
 
 ### CTR
+- **Deep Session Interest Network for Click-Through Rate Prediction**. *Yufei Feng, Fuyu Lv, Weichen Shen, Menghan Wang, Fei Sun, Yu Zhu, Keping Yang*. (IJCAI 2019) [[paper]](https://arxiv.org/abs/1905.06482)[[codee]](https://github.com/shenweichen/DSIN) - ***DSIN***
+- **Behavior Sequence Transformer for E-commerce Recommendation in Alibaba**. *Qiwei Chen, Huan Zhao, Wei Li, Pipei Huang, Wenwu Ou*. (DLP-KDD 2019) [[paper]](https://arxiv.org/abs/1905.06874) - ***BST***
 - **Deep Match to Rank Model for Personalized Click-Through Rate Prediction**. *Ze Lyu, Yu Dong, Chengfu Huo, Weijun Ren*. (AAAI 2020) [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/5346)[[code]](https://github.com/lvze92/DMR)[[blog]](https://developer.aliyun.com/article/749482) - ***DMR***
+- **GateNet: Gating-Enhanced Deep Network for Click-Through Rate Prediction**. *Tongwen Huang, Qingyun She, Zhiqiang Wang, Junlin Zhang*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.03519)
+- **Deep Feedback Network for Recommendation**. *Ruobing Xie, Cheng Ling, Yalong Wang, Rui Wang, Feng Xia, Leyu Lin*. (IJCAI 2020) [[paper]](https://www.ijcai.org/Proceedings/2020/349)[[code]](https://github.com/qqxiaochongqq/DFN) - ***DFN***
+
+### LTR
+- **IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**. *Jun Wang, Lantao Yu, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang, Dell Zhang*. (SIGIR 2017) [[paper]](https://arxiv.org/abs/1705.10513)[[code]](https://github.com/geek-ai/irgan)
 
 ### Embedding & ANN
 - **Detecting Near-Duplicates for Web Crawling**. *Gurmeet Singh Manku, Arvind  Jain profile, Anish Das Sarma*.
@@ -71,7 +79,6 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [阿里 / 神马搜索如何提升搜索的时效性？](https://mp.weixin.qq.com/s/WpITPvYmixMHa0ha0MgWVA)
 - [coolhok / faiss-learning学习文档](https://github.com/coolhok/faiss-learning)
 - [Chenny / 传统文本匹配算法详解（附代码）](https://zhuanlan.zhihu.com/p/138848302)
-- []
 - [叉烧 / ACL2020 | 线上搜索结果大幅提升！亚马逊提出对抗式query-doc相关性模型](https://zhuanlan.zhihu.com/p/144911605)
 - [Dezhi Ye / Embedding-based Retrieval in Facebook Search论文解读](https://zhuanlan.zhihu.com/p/152570715)
 - [邓邓最棒 / 海量文本求topk相似：faiss库初探](https://mp.weixin.qq.com/s/lS4sn1BFf-kvEKi4Ve74pQ)
@@ -79,6 +86,8 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [丁香园 / 搜索中的Query扩展技术](https://zhuanlan.zhihu.com/p/138551957)
 - [科学空间 / 从EMD、WMD到WRD：文本向量序列的相似度计算](https://kexue.fm/archives/7388)
 - [liqima / Faiss wiki in Chinese](https://github.com/liqima/faiss_note)
+- [Tree / Ranking算法评测指标之 CG、DCG、NDCG](https://zhuanlan.zhihu.com/p/136199536)
+- [清雨影 / TOP N 推荐神器 Ranknet加速史（附Pytorch实现）](https://zhuanlan.zhihu.com/p/148262580)
 - [腾讯 / 移动腾讯网召回算法实践总结](https://zhuanlan.zhihu.com/p/139256086)
 - [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
 - [一小撮人 / Fiass - Getting started](https://zhuanlan.zhihu.com/p/102278151)
