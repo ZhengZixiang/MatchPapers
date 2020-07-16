@@ -11,6 +11,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 
 ## Papers
 ### Text Matching
+- **Enhanced-RCNN: An Efficient Method for Learning Sentence Similarity**. *Shuang Peng, Hengbin Cui, Niantao Xie, Sujian Li, Jiaxing Zhang, Xiaolong Li*. (WWW 2020) [[paper]](https://dl.acm.org/doi/10.1145/3366423.3379998)
 - **Match^2: A Matching over Matching Model for Similar Question Identification**. *Zizhen Wang, Yixing Fan, Jiafeng Guo, Liu Yang, Ruqing Zhang, Yanyan Lan, Xueqi Cheng, Hui Jiang, Xiaozhao Wang*. (SIGIR 2020) [[paper]](https://arxiv.org/abs/2006.11719) - ***Match^2***
 
 ### Recommadation System Matching
@@ -32,6 +33,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **Detecting Near-Duplicates for Web Crawling**. *Gurmeet Singh Manku, Arvind  Jain profile, Anish Das Sarma*.
  (WWW 2007) [[paper]](http://www.wwwconference.org/www2007/papers/paper215.pdf) - ***Simhash***
 - **Product Quantization for Nearest Neighbor Search**. *Hervé Jégou, Matthijs Douze, Cordelia Schmid*. (IEEE Transactions on Pattern Analysis and Machine Intelligence 2011) [[paper]](https://hal.inria.fr/file/index/docid/514462/filename/paper_hal.pdf) - ***PQ***
+- **Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs**. *Yu. A. Malkov, D. A. Yashunin*. (IEEE Trans. Pattern Anal. Mach. Intell. 42(4)) [[paper]](https://arxiv.org/abs/1603.09320) - ***HNSW***
 - **ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms**. *Martin Aumüller, Erik Bernhardsson, Alexander Faithfull*. (Information Systems 2019) [[paper]](https://arxiv.org/abs/1807.05614)[[code]](https://github.com/erikbern/ann-benchmarks)
 - **Embedding-based Retrieval in Facebook Search**. *Jui-Ting Huang, Ashish Sharma, Shuying Sun, Li Xia, David Zhang, Philip Pronin, Janani Padmanabhan, Giuseppe Ottaviano, Linjun Yang*. (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
 
@@ -82,16 +84,19 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [阿里 / 神马搜索如何提升搜索的时效性？](https://mp.weixin.qq.com/s/WpITPvYmixMHa0ha0MgWVA)
 - [coolhok / faiss-learning学习文档](https://github.com/coolhok/faiss-learning)
 - [Chenny / 传统文本匹配算法详解（附代码）](https://zhuanlan.zhihu.com/p/138848302)
+- [CNU小学生 / 一文看懂HNSW算法理论的来龙去脉](https://blog.csdn.net/u011233351/article/details/85116719)
 - [叉烧 / ACL2020 | 线上搜索结果大幅提升！亚马逊提出对抗式query-doc相关性模型](https://zhuanlan.zhihu.com/p/144911605)
 - [Dezhi Ye / Embedding-based Retrieval in Facebook Search论文解读](https://zhuanlan.zhihu.com/p/152570715)
 - [邓邓最棒 / 海量文本求topk相似：faiss库初探](https://mp.weixin.qq.com/s/lS4sn1BFf-kvEKi4Ve74pQ)
 - [丁香园 / 丁香园在语义匹配任务上的探索与实践](https://zhuanlan.zhihu.com/p/69356170)
 - [丁香园 / 搜索中的Query扩展技术](https://zhuanlan.zhihu.com/p/138551957)
+- [Giant / K近邻算法哪家强？KDTree、Annoy、HNSW原理和使用方法介绍](https://zhuanlan.zhihu.com/p/152522906)
 - [科学空间 / 从EMD、WMD到WRD：文本向量序列的相似度计算](https://kexue.fm/archives/7388)
 - [liqima / Faiss wiki in Chinese](https://github.com/liqima/faiss_note)
 - [Tree / Ranking算法评测指标之 CG、DCG、NDCG](https://zhuanlan.zhihu.com/p/136199536)
 - [清雨影 / TOP N 推荐神器 Ranknet加速史（附Pytorch实现）](https://zhuanlan.zhihu.com/p/148262580)
 - [腾讯 / 移动腾讯网召回算法实践总结](https://zhuanlan.zhihu.com/p/139256086)
+- [腾讯 / 详文解读微信「看一看」多模型内容策略与召回](https://mp.weixin.qq.com/s/EId6TB8SSo3rWXXs9oefkA)
 - [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
 - [一小撮人 / Fiass - Getting started](https://zhuanlan.zhihu.com/p/102278151)
 - [一小撮人 / Fiass - Faster search、Lower memory 、Run on GPUs](https://zhuanlan.zhihu.com/p/102281896)
