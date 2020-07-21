@@ -37,21 +37,41 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms**. *Martin Aumüller, Erik Bernhardsson, Alexander Faithfull*. (Information Systems 2019) [[paper]](https://arxiv.org/abs/1807.05614)[[code]](https://github.com/erikbern/ann-benchmarks)
 - **Embedding-based Retrieval in Facebook Search**. *Jui-Ting Huang, Ashish Sharma, Shuying Sun, Li Xia, David Zhang, Philip Pronin, Janani Padmanabhan, Giuseppe Ottaviano, Linjun Yang*. (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
 
+- MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu's Sponsored Search (KDD 2019) [[paper]](https://dl.acm.org/doi/10.1145/3292500.3330651) - ***MOBIUS***
+- Real-time Attention Based Look-alike Model for Recommender System (KDD 2019) [[paper]](https://arxiv.org/abs/1906.05022) - ***RALM***
+- Applying Deep Learning To Airbnb Search (KDD 2019) [[paper]](https://arxiv.org/abs/1810.09591)
+- SDM: Sequential Deep Matching Model for Online Large-scale Recommender System (ICKM 2019) [[paper]](https://arxiv.org/abs/1909.00385)[[code]](https://github.com/alicogintel/SDM) - ***SDM***
+- Internal and Contextual Attention Network for Cold-start Multi-channel Matching in Recommendation (IJCAI 2020) [[paper]]() - ***ICAN***
+- Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction (SIGIR 2020) [[paper]](https://arxiv.org/abs/2005.12981) [[code]](https://github.com/stellaxu/DHAN)
+- Embedding-based Retrieval in Facebook Search (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
+- Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.05639) - ***SIM***
+
 ## Survey/Tutorial
 - **Deep Learning for Matching in Search and Recommendation**. *Jun Xu, Xiangnan He, Hang Li*. (SIGIR 2018) [[slides]](http://staff.ustc.edu.cn/~hexn/sigir18-deep.pdf)[[paper]](https://dl.acm.org/doi/pdf/10.1145/3209978.3210181)
+- A Survey on Knowledge Graph-Based Recommender Systems (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.00911)
+- Graph Learning Approaches to Recommender Systems: A Review (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.11718)
+- Adversarial Machine Learning in Recommender Systems: State of the art and Challenges (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.10322)
 
 ## Repositories/Resources
 - [Baidu / Familia](https://github.com/baidu/Familia) - A Toolkit for Industrial Topic Modeling
+- [chihming / competitive-recsys](https://github.com/chihming/competitive-recsys)
+- [Coder-Yu / RecQ](https://github.com/Coder-Yu/RecQ)
+- [jrzaurin / pytorch-widedeep](https://github.com/jrzaurin/pytorch-widedeep)
+- [lanwuwei / SPM_toolkit](https://github.com/lanwuwei/SPM_toolkit)
 - [NTMC-Community / MatchZoo](https://github.com/NTMC-Community/MatchZoo)
 - [NTMC-Community / MatchZoo-py](https://github.com/NTMC-Community/MatchZoo-py)
-- [lanwuwei / SPM_toolkit](https://github.com/lanwuwei/SPM_toolkit)
+- [mengfeizhang820 / Paperlist-for-Recommender-Systems](https://github.com/mengfeizhang820/Paperlist-for-Recommender-Systems)
+- [mJackie / RecSys](https://github.com/mJackie/RecSys)
 - [pengming617 / text_matching](https://github.com/pengming617/text_matching)
 - [RediSearch / RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
+- [shenweichen / DeepMatch](https://github.com/shenweichen/DeepMatch)
+- [shenweichen / DeepCTR](https://github.com/shenweichen/DeepCTR)
+- [shenweichen / DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch)
+- [ShuaichiLi / Chinese-sentence-similarity-task](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task) - 中文问题句子相似度计算比赛及方案汇总
 - [THUNLP / NeuIRPapers](https://github.com/thunlp/NeuIRPapers) - Must-read Papers on Neural Information Retrieval
 - [THUNLP / OpenMatch](https://github.com/thunlp/OpenMatch)
 - [THUwangcy / ReChorus](https://github.com/THUwangcy/ReChorus) [[video]](https://www.bilibili.com/video/BV1Qt4y1Q7jW) - "Chorus" of recommendation models: a PyTorch framework for Top-K recommendation with implicit feedback
-- [shenweichen / DeepMatch](https://github.com/shenweichen/DeepMatch)
-- [ShuaichiLi / Chinese-sentence-similarity-task](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task) - 中文问题句子相似度计算比赛及方案汇总
+- [wzhe06 / Reco-papers](https://github.com/wzhe06/Reco-papers)
 - [zhaogaofeng611 / TextMatch](https://github.com/zhaogaofeng611/TextMatch) - 基于Pytorch的中文语义相似度匹配模型
 
 ### ANN
@@ -82,7 +102,15 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 
 ## Articles/Posts
 ### Chinese
+- [EE_NovRain / 各大公司广泛使用的在线学习算法FTRL详解](http://www.cnblogs.com/EE-NovRain/p/3810737.html)
+- [Johnson0722 / CTR预估算法之FM, FFM, DeepFM及实践](https://blog.csdn.net/john_xyz/article/details/78933253)
+- [良口三 / 从Triplet Loss看推荐系统中文章Embedding](https://zhuanlan.zhihu.com/p/138850070)
+- [辛俊波 / 线下auc涨，线上ctr/cpm跌的原因和解决办法](https://www.zhihu.com/question/32218407/answer/1172781649)
+- [七便士 / SDM(Sequential Deep Matching Model)的复现之路](https://zhuanlan.zhihu.com/p/141411747)
+- [深度传送门 / 工业界深度推荐系统与CTR预估必读的论文汇总](https://zhuanlan.zhihu.com/p/83103245)
+- [朱亚东 / 排序学习综述](https://mp.weixin.qq.com/s/gP57ROWN27on1wHj3rp-Iw)
 - [阿里 / 神马搜索如何提升搜索的时效性？](https://mp.weixin.qq.com/s/WpITPvYmixMHa0ha0MgWVA)
+- [阿里 / Life-long兴趣建模视角CTR预估模型：Search-based Interest Model](https://zhuanlan.zhihu.com/p/148416488)
 - [coolhok / faiss-learning学习文档](https://github.com/coolhok/faiss-learning)
 - [Chenny / 传统文本匹配算法详解（附代码）](https://zhuanlan.zhihu.com/p/138848302)
 - [CNU小学生 / 一文看懂HNSW算法理论的来龙去脉](https://blog.csdn.net/u011233351/article/details/85116719)
@@ -92,14 +120,19 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [丁香园 / 丁香园在语义匹配任务上的探索与实践](https://zhuanlan.zhihu.com/p/69356170)
 - [丁香园 / 搜索中的Query扩展技术](https://zhuanlan.zhihu.com/p/138551957)
 - [Giant / K近邻算法哪家强？KDTree、Annoy、HNSW原理和使用方法介绍](https://zhuanlan.zhihu.com/p/152522906)
+- [花椒 / 智能推荐算法在直播场景中的应用](https://mp.weixin.qq.com/s/Pf0BFcBIyJnbIsz24X2NMQ)
+- [京东 / 深度解析京东个性化推荐系统演进史](https://blog.csdn.net/qq_40027052/article/details/78733365)
 - [科学空间 / 从EMD、WMD到WRD：文本向量序列的相似度计算](https://kexue.fm/archives/7388)
 - [liqima / Faiss wiki in Chinese](https://github.com/liqima/faiss_note)
 - [Merria28 / 相似度检测——hnsw参数选择](https://zhuanlan.zhihu.com/p/98028479)
+- [美团 / 深度学习在美团点评推荐平台排序中的运用](https://mp.weixin.qq.com/s/847h4ITQMtUlZcurJ9Vlvg?scene=25##)
 - [Tree / Ranking算法评测指标之 CG、DCG、NDCG](https://zhuanlan.zhihu.com/p/136199536)
 - [清雨影 / TOP N 推荐神器 Ranknet加速史（附Pytorch实现）](https://zhuanlan.zhihu.com/p/148262580)
+- [腾讯 / 神盾推荐——MAB算法应用总结](https://mp.weixin.qq.com/s/Xyqwrf2RudGtbMtwoqCTYA)
 - [腾讯 / 移动腾讯网召回算法实践总结](https://zhuanlan.zhihu.com/p/139256086)
 - [腾讯 / 个性化推荐如何满足用户口味？微信看一看的技术这样做](https://mp.weixin.qq.com/s/OGBQvSNce6PGbpTH9yBD3A)
 - [腾讯 / 详文解读微信「看一看」多模型内容策略与召回](https://mp.weixin.qq.com/s/EId6TB8SSo3rWXXs9oefkA)
+- [腾讯 / 万字长文读懂微信“看一看”内容理解与推荐](https://mp.weixin.qq.com/s/ZS1NUPJmkWzWcEU2x3jq1A)
 - [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
 - [一小撮人 / Fiass - Getting started](https://zhuanlan.zhihu.com/p/102278151)
 - [一小撮人 / Fiass - Faster search、Lower memory 、Run on GPUs](https://zhuanlan.zhihu.com/p/102281896)
@@ -110,3 +143,4 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [一小撮人 / Fiass - 常见问题总结](https://zhuanlan.zhihu.com/p/107241260)
 - [一小撮人 / 一文带你了解Annoy！](https://zhuanlan.zhihu.com/p/109633593)
 - [知乎 / Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/MAfK4B2F8sPXRLodXkwnmw)
+- [字节跳动 / 3分钟了解今日头条推荐算法原理（附视频+PPT）](http://www.sohu.com/a/217314007_297710)
