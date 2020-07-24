@@ -17,14 +17,18 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 ### Recommadation System Matching
 - **CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks**. *Dong-Kyu Chae, Jinsoo  Kang, Sangwook  Kim, Jungtae  Lee*. (CIKM 2018) [[paper]](https://dl.acm.org/doi/10.1145/3269206.3271743)[[code]](https://github.com/ARASC/CFGAN)
 - **Multi-Interest Network with Dynamic Routing for Recommendation at Tmall**. *Chao Li, Zhiyuan Liu, Mengmeng Wu, Yuchi Xu, Pipei Huang, Huan Zhao, Guoliang Kang, Qiwei Chen, Wei Li, Dik Lun Lee*. (CIKM 2019) [[paper]](https://arxiv.org/abs/1904.08030) - ***MIND***
+- **SDM: Sequential Deep Matching Model for Online Large-scale Recommender System**. *Fuyu Lv, Taiwei Jin, Changlong Yu, Fei Sun, Quan Lin, Keping Yang, Wilfred Ng*. (CIKM 2019) [[paper]](https://arxiv.org/abs/1909.00385)[[code]](https://github.com/alicogintel/SDM)
 - **Learning Robust Models for e-Commerce Product Search**. *Thanh V. Nguyen, Nikhil Rao, Karthik Subbian*. (ACL 2020) [[paper]](https://arxiv.org/abs/2005.03624) - ***QUARTS***
+- **Internal and Contextual Attention Network for Cold-start Multi-channel Matching in Recommendation**. *Ruobing Xie, Zhijie Qiu, Jun Rao, Yi Liu, Bo Zhang, Leyu Lin*. (IJCAI 2020) [[paper]](https://www.ijcai.org/Proceedings/2020/379) - ***ICAN***
 
 ### CTR
 - **Deep Session Interest Network for Click-Through Rate Prediction**. *Yufei Feng, Fuyu Lv, Weichen Shen, Menghan Wang, Fei Sun, Yu Zhu, Keping Yang*. (IJCAI 2019) [[paper]](https://arxiv.org/abs/1905.06482)[[codee]](https://github.com/shenweichen/DSIN) - ***DSIN***
 - **Behavior Sequence Transformer for E-commerce Recommendation in Alibaba**. *Qiwei Chen, Huan Zhao, Wei Li, Pipei Huang, Wenwu Ou*. (DLP-KDD 2019) [[paper]](https://arxiv.org/abs/1905.06874) - ***BST***
 - **Deep Match to Rank Model for Personalized Click-Through Rate Prediction**. *Ze Lyu, Yu Dong, Chengfu Huo, Weijun Ren*. (AAAI 2020) [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/5346)[[code]](https://github.com/lvze92/DMR)[[blog]](https://developer.aliyun.com/article/749482) - ***DMR***
+- **Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction**. *Qi Pi, Xiaoqiang Zhu, Guorui Zhou, Yujing Zhang, Zhe Wang, Lejian Ren, Ying Fan, Kun Gai*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.05639) - ***SIM***
 - **GateNet: Gating-Enhanced Deep Network for Click-Through Rate Prediction**. *Tongwen Huang, Qingyun She, Zhiqiang Wang, Junlin Zhang*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.03519)
 - **Deep Feedback Network for Recommendation**. *Ruobing Xie, Cheng Ling, Yalong Wang, Rui Wang, Feng Xia, Leyu Lin*. (IJCAI 2020) [[paper]](https://www.ijcai.org/Proceedings/2020/349)[[code]](https://github.com/qqxiaochongqq/DFN) - ***DFN***
+- **Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction**. *Weinan Xu, Hengxu He, Minshi Tan, Yunming Li, Jun Lang, Dongbai Guo*. (SIGIR 2020) [[paper]](https://arxiv.org/abs/2005.12981) [[code]](https://github.com/stellaxu/DHAN) - ***DHAN***
 
 ### LTR
 - **IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**. *Jun Wang, Lantao Yu, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang, Dell Zhang*. (SIGIR 2017) [[paper]](https://arxiv.org/abs/1705.10513)[[code]](https://github.com/geek-ai/irgan)
@@ -37,20 +41,18 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms**. *Martin Aumüller, Erik Bernhardsson, Alexander Faithfull*. (Information Systems 2019) [[paper]](https://arxiv.org/abs/1807.05614)[[code]](https://github.com/erikbern/ann-benchmarks)
 - **Embedding-based Retrieval in Facebook Search**. *Jui-Ting Huang, Ashish Sharma, Shuying Sun, Li Xia, David Zhang, Philip Pronin, Janani Padmanabhan, Giuseppe Ottaviano, Linjun Yang*. (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
 
-- MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu's Sponsored Search (KDD 2019) [[paper]](https://dl.acm.org/doi/10.1145/3292500.3330651) - ***MOBIUS***
-- Real-time Attention Based Look-alike Model for Recommender System (KDD 2019) [[paper]](https://arxiv.org/abs/1906.05022) - ***RALM***
-- Applying Deep Learning To Airbnb Search (KDD 2019) [[paper]](https://arxiv.org/abs/1810.09591)
-- SDM: Sequential Deep Matching Model for Online Large-scale Recommender System (ICKM 2019) [[paper]](https://arxiv.org/abs/1909.00385)[[code]](https://github.com/alicogintel/SDM) - ***SDM***
-- Internal and Contextual Attention Network for Cold-start Multi-channel Matching in Recommendation (IJCAI 2020) [[paper]]() - ***ICAN***
-- Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction (SIGIR 2020) [[paper]](https://arxiv.org/abs/2005.12981) [[code]](https://github.com/stellaxu/DHAN)
-- Embedding-based Retrieval in Facebook Search (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
-- Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.05639) - ***SIM***
+### Architecture & System
+- **Real-t
+- **Applying Deep Learning To Airbnb Search**. *Malay Haldar, Mustafa Abdool, Prashant Ramanathan, Tao Xu, Shulin Yang, Huizhong Duan, Qing Zhang, Nick Barrow-Williams, Bradley C. Turnbull, Brendan M. Collins, Thomas Legrand*. (KDD 2019) [[paper]](https://arxiv.org/abs/1810.09591)
+- **MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu's Sponsored Search**. *Miao Fan, Jiacheng Guo, Shuai Zhu, Shuo Miao, Mingming Sun, Ping Li*. (KDD 2019) [[paper]](https://dl.acm.org/doi/10.1145/3292500.3330651)
+ime Attention Based Look-alike Model for Recommender System**. *Yudan Liu, Kaikai Ge, Xu Zhang, Leyu Lin*. (KDD 2019) [[paper]](https://arxiv.org/abs/1906.05022) - ***RALM***
+- **Embedding-based Retrieval in Facebook Search**. *Jui-Ting Huang, Ashish Sharma, Shuying Sun, Li Xia, David Zhang, Philip Pronin, Janani Padmanabhan, Giuseppe Ottaviano, Linjun Yang*. (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
 
 ## Survey/Tutorial
 - **Deep Learning for Matching in Search and Recommendation**. *Jun Xu, Xiangnan He, Hang Li*. (SIGIR 2018) [[slides]](http://staff.ustc.edu.cn/~hexn/sigir18-deep.pdf)[[paper]](https://dl.acm.org/doi/pdf/10.1145/3209978.3210181)
-- A Survey on Knowledge Graph-Based Recommender Systems (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.00911)
-- Graph Learning Approaches to Recommender Systems: A Review (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.11718)
-- Adversarial Machine Learning in Recommender Systems: State of the art and Challenges (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.10322)
+- **A Survey on Knowledge Graph-Based Recommender Systems**. *Qingyu Guo, Fuzhen Zhuang, Chuan Qin, Hengshu Zhu, Xing Xie, Hui Xiong, Qing He*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.00911)
+- **Graph Learning Approaches to Recommender Systems: A Review**. *Shoujin Wang, Liang Hu, Yan Wang, Xiangnan He, Quan Z. Sheng, Mehmet A. Orgun, Longbing Cao, Nan Wang, Francesco Ricci, Philip S. Yu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.11718)
+- **Adversarial Machine Learning in Recommender Systems: State of the art and Challenges**. *Yashar Deldjoo, Tommaso Di Noia, Felice Antonio Merra*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.10322)
 
 ## Repositories/Resources
 - [Baidu / Familia](https://github.com/baidu/Familia) - A Toolkit for Industrial Topic Modeling
@@ -114,6 +116,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [coolhok / faiss-learning学习文档](https://github.com/coolhok/faiss-learning)
 - [Chenny / 传统文本匹配算法详解（附代码）](https://zhuanlan.zhihu.com/p/138848302)
 - [CNU小学生 / 一文看懂HNSW算法理论的来龙去脉](https://blog.csdn.net/u011233351/article/details/85116719)
+- [策略算法工程师之路 / Query纠错算法](https://zhuanlan.zhihu.com/p/145198390)
 - [叉烧 / ACL2020 | 线上搜索结果大幅提升！亚马逊提出对抗式query-doc相关性模型](https://zhuanlan.zhihu.com/p/144911605)
 - [Dezhi Ye / Embedding-based Retrieval in Facebook Search论文解读](https://zhuanlan.zhihu.com/p/152570715)
 - [邓邓最棒 / 海量文本求topk相似：faiss库初探](https://mp.weixin.qq.com/s/lS4sn1BFf-kvEKi4Ve74pQ)
@@ -133,6 +136,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [腾讯 / 个性化推荐如何满足用户口味？微信看一看的技术这样做](https://mp.weixin.qq.com/s/OGBQvSNce6PGbpTH9yBD3A)
 - [腾讯 / 详文解读微信「看一看」多模型内容策略与召回](https://mp.weixin.qq.com/s/EId6TB8SSo3rWXXs9oefkA)
 - [腾讯 / 万字长文读懂微信“看一看”内容理解与推荐](https://mp.weixin.qq.com/s/ZS1NUPJmkWzWcEU2x3jq1A)
+- [吴海波 / 乱弹机器学习评估指标AUC](https://zhuanlan.zhihu.com/p/52930683)
 - [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
 - [一小撮人 / Fiass - Getting started](https://zhuanlan.zhihu.com/p/102278151)
 - [一小撮人 / Fiass - Faster search、Lower memory 、Run on GPUs](https://zhuanlan.zhihu.com/p/102281896)
