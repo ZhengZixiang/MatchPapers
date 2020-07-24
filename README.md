@@ -42,10 +42,9 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **Embedding-based Retrieval in Facebook Search**. *Jui-Ting Huang, Ashish Sharma, Shuying Sun, Li Xia, David Zhang, Philip Pronin, Janani Padmanabhan, Giuseppe Ottaviano, Linjun Yang*. (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
 
 ### Architecture & System
-- **Real-t
+- **Real-time Attention Based Look-alike Model for Recommender System**. *Yudan Liu, Kaikai Ge, Xu Zhang, Leyu Lin*. (KDD 2019) [[paper]](https://arxiv.org/abs/1906.05022) - ***RALM***
 - **Applying Deep Learning To Airbnb Search**. *Malay Haldar, Mustafa Abdool, Prashant Ramanathan, Tao Xu, Shulin Yang, Huizhong Duan, Qing Zhang, Nick Barrow-Williams, Bradley C. Turnbull, Brendan M. Collins, Thomas Legrand*. (KDD 2019) [[paper]](https://arxiv.org/abs/1810.09591)
 - **MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu's Sponsored Search**. *Miao Fan, Jiacheng Guo, Shuai Zhu, Shuo Miao, Mingming Sun, Ping Li*. (KDD 2019) [[paper]](https://dl.acm.org/doi/10.1145/3292500.3330651)
-ime Attention Based Look-alike Model for Recommender System**. *Yudan Liu, Kaikai Ge, Xu Zhang, Leyu Lin*. (KDD 2019) [[paper]](https://arxiv.org/abs/1906.05022) - ***RALM***
 - **Embedding-based Retrieval in Facebook Search**. *Jui-Ting Huang, Ashish Sharma, Shuying Sun, Li Xia, David Zhang, Philip Pronin, Janani Padmanabhan, Giuseppe Ottaviano, Linjun Yang*. (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
 
 ## Survey/Tutorial
