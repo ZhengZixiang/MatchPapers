@@ -57,6 +57,8 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [Baidu / Familia](https://github.com/baidu/Familia) - A Toolkit for Industrial Topic Modeling
 - [chihming / competitive-recsys](https://github.com/chihming/competitive-recsys)
 - [Coder-Yu / RecQ](https://github.com/Coder-Yu/RecQ)
+- [DA-southampton / NLP_ability](https://github.com/DA-southampton/NLP_ability) - 梳理自然语言处理工程师(NLP)需要积累的各方面知识
+- [DA-southampton / Tech_Aarticle](https://github.com/DA-southampton/Tech_Aarticle) - 深度学习模型在各大公司实际生产环境的应用讲解文章
 - [jrzaurin / pytorch-widedeep](https://github.com/jrzaurin/pytorch-widedeep)
 - [lanwuwei / SPM_toolkit](https://github.com/lanwuwei/SPM_toolkit)
 - [NTMC-Community / MatchZoo](https://github.com/NTMC-Community/MatchZoo)
