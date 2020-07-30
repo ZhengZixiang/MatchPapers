@@ -52,6 +52,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **A Survey on Knowledge Graph-Based Recommender Systems**. *Qingyu Guo, Fuzhen Zhuang, Chuan Qin, Hengshu Zhu, Xing Xie, Hui Xiong, Qing He*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.00911)
 - **Graph Learning Approaches to Recommender Systems: A Review**. *Shoujin Wang, Liang Hu, Yan Wang, Xiangnan He, Quan Z. Sheng, Mehmet A. Orgun, Longbing Cao, Nan Wang, Francesco Ricci, Philip S. Yu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.11718)
 - **Adversarial Machine Learning in Recommender Systems: State of the art and Challenges**. *Yashar Deldjoo, Tommaso Di Noia, Felice Antonio Merra*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.10322)
+- **A Comparison of Supervised Learning to Match Methods for Product Search**. *Fatemeh Sarvi, Nikos Voskarides, Lois Mooiman, Sebastian Schelter, Maarten de Rijke*. (SIGIR 2020) [[paper]](https://arxiv.org/abs/2007.10296)[[code]](https://github.com/arezooSarvi/sigir2020-eComWorkshop-LTM-for-product-search)
 
 ## Repositories/Resources
 - [Baidu / Familia](https://github.com/baidu/Familia) - A Toolkit for Industrial Topic Modeling
