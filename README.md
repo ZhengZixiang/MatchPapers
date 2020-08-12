@@ -40,6 +40,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs**. *Yu. A. Malkov, D. A. Yashunin*. (IEEE Trans. Pattern Anal. Mach. Intell. 42(4)) [[paper]](https://arxiv.org/abs/1603.09320) - ***HNSW***
 - **ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms**. *Martin Aumüller, Erik Bernhardsson, Alexander Faithfull*. (Information Systems 2019) [[paper]](https://arxiv.org/abs/1807.05614)[[code]](https://github.com/erikbern/ann-benchmarks)
 - **Embedding-based Retrieval in Facebook Search**. *Jui-Ting Huang, Ashish Sharma, Shuying Sun, Li Xia, David Zhang, Philip Pronin, Janani Padmanabhan, Giuseppe Ottaviano, Linjun Yang*. (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
+- **Accelerating Large-Scale Inference with Anisotropic Vector Quantization**. *Ruiqi Guo, Philip Sun, Erik Lindgren, Quan Geng, David Simcha, Felix Chern, Sanjiv Kumar*. [[paper]](https://arxiv.org/abs/1908.10396)[[code]](https://github.com/google-research/google-research/tree/master/scann) - ***ScaNN***
 
 ### Architecture & System
 - **Real-time Attention Based Look-alike Model for Recommender System**. *Yudan Liu, Kaikai Ge, Xu Zhang, Leyu Lin*. (KDD 2019) [[paper]](https://arxiv.org/abs/1906.05022) - ***RALM***
@@ -83,6 +84,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [erikbern / ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
 - [facebookresearch / Faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors
 - [FALCONN-LIB / FALCONN](https://github.com/FALCONN-LIB/FALCONN) - LSH-based FAst Lookups of Cosine and Other Nearest Neighbors
+- [google-research / ScaNN](https://github.com/google-research/google-research/tree/master/scann) - a method for efficient vector similarity search at scale
 - [Jina AI / Jina](https://github.com/jina-ai/jina) - An easier way to build neural search in the cloud
 - [kayzhu / LSHash](https://github.com/kayzhu/LSHash) - A fast Python implementation of LSH
 - [leonsim / simhash](https://github.com/leonsim/simhash) - A Python Implementation of Simhash Algorithm
