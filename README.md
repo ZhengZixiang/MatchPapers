@@ -72,6 +72,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [shenweichen / DeepMatch](https://github.com/shenweichen/DeepMatch)
 - [shenweichen / DeepCTR](https://github.com/shenweichen/DeepCTR)
 - [shenweichen / DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch)
+- [shenweichen / GraphEmbedding](https://github.com/shenweichen/GraphEmbedding)
 - [ShuaichiLi / Chinese-sentence-similarity-task](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task) - 中文问题句子相似度计算比赛及方案汇总
 - [THUNLP / NeuIRPapers](https://github.com/thunlp/NeuIRPapers) - Must-read Papers on Neural Information Retrieval
 - [THUNLP / OpenMatch](https://github.com/thunlp/OpenMatch)
