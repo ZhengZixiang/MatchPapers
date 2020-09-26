@@ -77,8 +77,10 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [THUNLP / NeuIRPapers](https://github.com/thunlp/NeuIRPapers) - Must-read Papers on Neural Information Retrieval
 - [THUNLP / OpenMatch](https://github.com/thunlp/OpenMatch)
 - [THUwangcy / ReChorus](https://github.com/THUwangcy/ReChorus) [[video]](https://www.bilibili.com/video/BV1Qt4y1Q7jW) - "Chorus" of recommendation models: a PyTorch framework for Top-K recommendation with implicit feedback
+- [wangle1218 / deep_text_matching](https://github.com/wangle1218/deep_text_matching) - Implementation several deep text match (text similarly) models for Keras
 - [wzhe06 / Reco-papers](https://github.com/wzhe06/Reco-papers)
 - [zhaogaofeng611 / TextMatch](https://github.com/zhaogaofeng611/TextMatch) - 基于Pytorch的中文语义相似度匹配模型
+- [ZiyaoGeng / Recommender-System-with-TF2.0](https://github.com/ZiyaoGeng/Recommender-System-with-TF2.0) - Recurrence the recommender paper with Tensorflow2.0
 
 ### ANN
 - [aaalgo / KGraph](https://github.com/aaalgo/kgraph) - A Library for Approximate Nearest Neighbor Search
@@ -133,7 +135,9 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [科学空间 / 从EMD、WMD到WRD：文本向量序列的相似度计算](https://kexue.fm/archives/7388)
 - [liqima / Faiss wiki in Chinese](https://github.com/liqima/faiss_note)
 - [Merria28 / 相似度检测——hnsw参数选择](https://zhuanlan.zhihu.com/p/98028479)
+- [每天都要机器学习 / 基于向量的深层语义相似文本召回？你需要bert和faiss](https://mp.weixin.qq.com/s/3RPEabFtgIloIEMMPqPrlw)
 - [美团 / 深度学习在美团点评推荐平台排序中的运用](https://mp.weixin.qq.com/s/847h4ITQMtUlZcurJ9Vlvg?scene=25##)
+- [平安寿险PAI / AAAI 2020 | 基于Transformer的对话选择语义匹配模型](https://mp.weixin.qq.com/s/s-P_YVkdafUUT0VA_rBaZw)
 - [Tree / Ranking算法评测指标之 CG、DCG、NDCG](https://zhuanlan.zhihu.com/p/136199536)
 - [清雨影 / TOP N 推荐神器 Ranknet加速史（附Pytorch实现）](https://zhuanlan.zhihu.com/p/148262580)
 - [腾讯 / 神盾推荐——MAB算法应用总结](https://mp.weixin.qq.com/s/Xyqwrf2RudGtbMtwoqCTYA)
