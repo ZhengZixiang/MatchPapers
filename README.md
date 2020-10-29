@@ -115,6 +115,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 ## Dataset
 ### Natural Language Inference
 - **Adversarial NLI: A New Benchmark for Natural Language Understanding**. *Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston, Douwe Kiela*. (ACL 2020) [[paper]](https://arxiv.org/abs/1910.14599)[[data]](https://github.com/facebookresearch/anli)[[blog]](https://ai.facebook.com/blog/introducing-a-new-large-scale-dynamic-data-set-to-push-the-limits-of-natural-language-processing)
+- **OCNLI: Original Chinese Natural Language Inference**. *Hai Hu, Kyle Richardson, Liang Xu, Lu Li, Sandra Kuebler, Lawrence S. Moss*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.05444)[[data]](https://github.com/CLUEbenchmark/OCNLI)
 
 ### Recommendation System
 - **MIND: A Large-scale Dataset for News Recommendation**. *Fangzhao Wu, Ying Qiao, Jiun-Hung Chen, Chuhan Wu, Tao Qi, Jianxun Lian, Danyang Liu, Xing Xie, Jianfeng Gao, Winnie Wu, Ming Zhou*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.331/)[[data]](https://msnews.github.io/)
