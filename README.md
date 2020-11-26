@@ -161,6 +161,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [腾讯 / 个性化推荐如何满足用户口味？微信看一看的技术这样做](https://mp.weixin.qq.com/s/OGBQvSNce6PGbpTH9yBD3A)
 - [腾讯 / 详文解读微信「看一看」多模型内容策略与召回](https://mp.weixin.qq.com/s/EId6TB8SSo3rWXXs9oefkA)
 - [腾讯 / 万字长文读懂微信“看一看”内容理解与推荐](https://mp.weixin.qq.com/s/ZS1NUPJmkWzWcEU2x3jq1A)
+- [腾讯 / 搜你所想，从Query意图识别到类目识别的演变](https://mp.weixin.qq.com/s/s8swIdAPw_VeAWnZTL1riA)
 - [王鸿伟 / DNN可以进行高阶特征交互，为什么Wide&Deep和DeepFM等模型仍然需要显式构造Wide部分？](https://www.zhihu.com/question/364517083)
 - [吴海波 / 乱弹机器学习评估指标AUC](https://zhuanlan.zhihu.com/p/52930683)
 - [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
