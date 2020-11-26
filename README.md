@@ -38,6 +38,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction**. *Weinan Xu, Hengxu He, Minshi Tan, Yunming Li, Jun Lang, Dongbai Guo*. (SIGIR 2020) [[paper]](https://arxiv.org/abs/2005.12981) [[code]](https://github.com/stellaxu/DHAN) - ***DHAN***
 - **MiNet: Mixed Interest Network for Cross-Domain Click-Through Rate Prediction**. *Wentao Ouyang, Xiuwu Zhang, Lei Zhao, Jinmei Luo, Yu Zhang, Heng Zou, Zhaojie Liu, Yanlong Du*. (CIKM 2020) [[paper]](https://arxiv.org/abs/2008.02974)[[blog]](https://mp.weixin.qq.com/s/jkGb_qkfmEOEs030ZRIJIw)
 - **Operation-aware Neural Networks for User Response Prediction**. *Yi Yang, Baile Xu, Furao Shen, Jian Zhao*. (Neural Networks Volume 121, January 2020) [[paper]](https://arxiv.org/abs/1904.12579) - ***ONN NFFM***
+- **CAN: Revisiting Feature Co-Action for Click-Through Rate Prediction**. *Guorui Zhou, Weijie Bian, Kailun Wu, Lejian Ren, Qi Pi, Yujing Zhang, Can Xiao, Xiang-Rong Sheng, Na Mou, Xinchen Luo, Chi Zhang, Xianjie Qiao, Shiming Xiang, Kun Gai, Xiaoqiang Zhu, Jian Xu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.05625)[[code]](https://github.com/CAN-Paper/Co-Action-Network)[[blog]](https://mp.weixin.qq.com/s/gf_Esw96j5TzVEVDNW45aA)
 
 ### LTR
 - **IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**. *Jun Wang, Lantao Yu, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang, Dell Zhang*. (SIGIR 2017) [[paper]](https://arxiv.org/abs/1705.10513)[[code]](https://github.com/geek-ai/irgan)
@@ -57,6 +58,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **Applying Deep Learning To Airbnb Search**. *Malay Haldar, Mustafa Abdool, Prashant Ramanathan, Tao Xu, Shulin Yang, Huizhong Duan, Qing Zhang, Nick Barrow-Williams, Bradley C. Turnbull, Brendan M. Collins, Thomas Legrand*. (KDD 2019) [[paper]](https://arxiv.org/abs/1810.09591)
 - **MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu's Sponsored Search**. *Miao Fan, Jiacheng Guo, Shuai Zhu, Shuo Miao, Mingming Sun, Ping Li*. (KDD 2019) [[paper]](https://dl.acm.org/doi/10.1145/3292500.3330651)
 - **Embedding-based Retrieval in Facebook Search**. *Jui-Ting Huang, Ashish Sharma, Shuying Sun, Li Xia, David Zhang, Philip Pronin, Janani Padmanabhan, Giuseppe Ottaviano, Linjun Yang*. (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
+- **Learning to Build User-tag Profile in Recommendation System**. *Su Yan, Xin Chen, Ran Huo, Xu Zhang, Leyu Lin*. (CIKM 2020) [[paper]](https://dl.acm.org/doi/10.1145/3340531.3412719)
 
 ## Survey/Tutorial
 - **Deep Learning for Matching in Search and Recommendation**. *Jun Xu, Xiangnan He, Hang Li*. (SIGIR 2018) [[slides]](http://staff.ustc.edu.cn/~hexn/sigir18-deep.pdf)[[paper]](https://dl.acm.org/doi/pdf/10.1145/3209978.3210181)
@@ -72,19 +74,23 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [DA-southampton / NLP_ability](https://github.com/DA-southampton/NLP_ability) - 梳理自然语言处理工程师(NLP)需要积累的各方面知识
 - [DA-southampton / Tech_Aarticle](https://github.com/DA-southampton/Tech_Aarticle) - 深度学习模型在各大公司实际生产环境的应用讲解文章
 - [guoday / ctrNet-tool](https://github.com/guoday/ctrNet-tool) - This's the tool for CTR, including FM, FFM, NFFM and so on
+- [JepsonWong / Text_Matching](https://github.com/JepsonWong/Text_Matching) - 文本匹配算法
 - [jrzaurin / pytorch-widedeep](https://github.com/jrzaurin/pytorch-widedeep)
 - [lanwuwei / SPM_toolkit](https://github.com/lanwuwei/SPM_toolkit)
 - [NTMC-Community / MatchZoo](https://github.com/NTMC-Community/MatchZoo)
 - [NTMC-Community / MatchZoo-py](https://github.com/NTMC-Community/MatchZoo-py)
 - [mengfeizhang820 / Paperlist-for-Recommender-Systems](https://github.com/mengfeizhang820/Paperlist-for-Recommender-Systems)
+- [microsoft / recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [mJackie / RecSys](https://github.com/mJackie/RecSys)
 - [pengming617 / text_matching](https://github.com/pengming617/text_matching)
 - [RediSearch / RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
+- [RUCAIBox / RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
 - [shenweichen / DeepMatch](https://github.com/shenweichen/DeepMatch)
 - [shenweichen / DeepCTR](https://github.com/shenweichen/DeepCTR)
 - [shenweichen / DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch)
 - [shenweichen / GraphEmbedding](https://github.com/shenweichen/GraphEmbedding)
 - [ShuaichiLi / Chinese-sentence-similarity-task](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task) - 中文问题句子相似度计算比赛及方案汇总
+- [tensorflow / recommenders](https://github.com/tensorflow/recommenders) - A library for building recommender system models using TensorFlow
 - [THUNLP / NeuIRPapers](https://github.com/thunlp/NeuIRPapers) - Must-read Papers on Neural Information Retrieval
 - [THUNLP / OpenMatch](https://github.com/thunlp/OpenMatch)
 - [THUwangcy / ReChorus](https://github.com/THUwangcy/ReChorus) [[video]](https://www.bilibili.com/video/BV1Qt4y1Q7jW) - "Chorus" of recommendation models: a PyTorch framework for Top-K recommendation with implicit feedback
@@ -162,10 +168,12 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [腾讯 / 详文解读微信「看一看」多模型内容策略与召回](https://mp.weixin.qq.com/s/EId6TB8SSo3rWXXs9oefkA)
 - [腾讯 / 万字长文读懂微信“看一看”内容理解与推荐](https://mp.weixin.qq.com/s/ZS1NUPJmkWzWcEU2x3jq1A)
 - [腾讯 / 搜你所想，从Query意图识别到类目识别的演变](https://mp.weixin.qq.com/s/s8swIdAPw_VeAWnZTL1riA)
+- [腾讯 / 全面理解搜索Query：当你在搜索引擎中敲下回车后，发生了什么？](https://zhuanlan.zhihu.com/p/112719984)
 - [王鸿伟 / DNN可以进行高阶特征交互，为什么Wide&Deep和DeepFM等模型仍然需要显式构造Wide部分？](https://www.zhihu.com/question/364517083)
 - [吴海波 / 乱弹机器学习评估指标AUC](https://zhuanlan.zhihu.com/p/52930683)
 - [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
 - [夕小瑶 / 2020深度文本匹配最新进展：精度、速度我都要！](https://mp.weixin.qq.com/s/UcNhNgiASKhxBbcXGEz0tw)
+- [一块小蛋糕 / 推荐系统总结之深度召回模型（上）](https://zhuanlan.zhihu.com/p/267263561)
 - [一小撮人 / Fiass - Getting started](https://zhuanlan.zhihu.com/p/102278151)
 - [一小撮人 / Fiass - Faster search、Lower memory 、Run on GPUs](https://zhuanlan.zhihu.com/p/102281896)
 - [一小撮人 / Fiass - clustering, PCA, quantization](https://zhuanlan.zhihu.com/p/102287226)
