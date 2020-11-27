@@ -29,6 +29,8 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **Deep Retrieval: An End-to-End Learnable Structure Model for Large-Scale Recommendations**. *Weihao Gao, Xiangjun Fan, Jiankai Sun, Kai Jia, Wenzhi Xiao, Chong Wang, Xiaobing Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.07203)
 
 ### CTR
+- **Deep & Cross Network for Ad Click Predictions**. *Ruoxi Wang, Bin Fu, Gang Fu, Mingliang Wang*. (KDD 2017) [[paper]](https://arxiv.org/abs/1708.05123) - ***DCN***
+- **DCN-M: Improved Deep & Cross Network for Feature Cross Learning in Web-scale Learning to Rank Systems**. *Ruoxi Wang, Rakesh Shivanna, Derek Z. Cheng, Sagar Jain, Dong Lin, Lichan Hong, Ed H. Chi*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.13535)
 - **Deep Session Interest Network for Click-Through Rate Prediction**. *Yufei Feng, Fuyu Lv, Weichen Shen, Menghan Wang, Fei Sun, Yu Zhu, Keping Yang*. (IJCAI 2019) [[paper]](https://arxiv.org/abs/1905.06482)[[codee]](https://github.com/shenweichen/DSIN) - ***DSIN***
 - **Behavior Sequence Transformer for E-commerce Recommendation in Alibaba**. *Qiwei Chen, Huan Zhao, Wei Li, Pipei Huang, Wenwu Ou*. (DLP-KDD 2019) [[paper]](https://arxiv.org/abs/1905.06874) - ***BST***
 - **Deep Match to Rank Model for Personalized Click-Through Rate Prediction**. *Ze Lyu, Yu Dong, Chengfu Huo, Weijun Ren*. (AAAI 2020) [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/5346)[[code]](https://github.com/lvze92/DMR)[[blog]](https://developer.aliyun.com/article/749482) - ***DMR***
@@ -160,6 +162,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [美团 / 深度学习在美团点评推荐平台排序中的运用](https://mp.weixin.qq.com/s/847h4ITQMtUlZcurJ9Vlvg?scene=25##)
 - [美团 / MT-BERT在文本检索任务中的实践](https://tech.meituan.com/2020/08/20/mt-bert-in-document.html)
 - [平安寿险PAI / AAAI 2020 | 基于Transformer的对话选择语义匹配模型](https://mp.weixin.qq.com/s/s-P_YVkdafUUT0VA_rBaZw)
+- [浅梦的学习笔记 / DCN-M：Google提出改进版DCN，用于大规模排序系统的特征交叉学习(附代码)](https://mp.weixin.qq.com/s/0qidwbxyfTkODTw2DIiRWw)
 - [清雨影 / TOP N 推荐神器 Ranknet加速史（附Pytorch实现）](https://zhuanlan.zhihu.com/p/148262580)
 - [Tree / Ranking算法评测指标之 CG、DCG、NDCG](https://zhuanlan.zhihu.com/p/136199536)
 - [腾讯 / 神盾推荐——MAB算法应用总结](https://mp.weixin.qq.com/s/Xyqwrf2RudGtbMtwoqCTYA)
