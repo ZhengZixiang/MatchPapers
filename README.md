@@ -76,6 +76,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [DA-southampton / NLP_ability](https://github.com/DA-southampton/NLP_ability) - 梳理自然语言处理工程师(NLP)需要积累的各方面知识
 - [DA-southampton / Tech_Aarticle](https://github.com/DA-southampton/Tech_Aarticle) - 深度学习模型在各大公司实际生产环境的应用讲解文章
 - [guoday / ctrNet-tool](https://github.com/guoday/ctrNet-tool) - This's the tool for CTR, including FM, FFM, NFFM and so on
+- [guyulongcs / Deep-Reinforcement-Learning-for-Recommender-Systems](https://github.com/guyulongcs/Deep-Reinforcement-Learning-for-Recommender-Systems) - DRL for RecSys papers
 - [JepsonWong / Text_Matching](https://github.com/JepsonWong/Text_Matching) - 文本匹配算法
 - [jrzaurin / pytorch-widedeep](https://github.com/jrzaurin/pytorch-widedeep)
 - [lanwuwei / SPM_toolkit](https://github.com/lanwuwei/SPM_toolkit)
