@@ -42,6 +42,9 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **Operation-aware Neural Networks for User Response Prediction**. *Yi Yang, Baile Xu, Furao Shen, Jian Zhao*. (Neural Networks Volume 121, January 2020) [[paper]](https://arxiv.org/abs/1904.12579) - ***ONN NFFM***
 - **CAN: Revisiting Feature Co-Action for Click-Through Rate Prediction**. *Guorui Zhou, Weijie Bian, Kailun Wu, Lejian Ren, Qi Pi, Yujing Zhang, Can Xiao, Xiang-Rong Sheng, Na Mou, Xinchen Luo, Chi Zhang, Xianjie Qiao, Shiming Xiang, Kun Gai, Xiaoqiang Zhu, Jian Xu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.05625)[[code]](https://github.com/CAN-Paper/Co-Action-Network)[[blog]](https://mp.weixin.qq.com/s/gf_Esw96j5TzVEVDNW45aA)
 
+### Sequential RecSys
+- **BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer**. *Fei Sun, Jun Liu, Jian Wu, Changhua Pei, Xiao Lin, Wenwu Ou, Peng Jiang*. (CIKM 2019) [[paper]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)
+
 ### LTR
 - **IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**. *Jun Wang, Lantao Yu, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang, Dell Zhang*. (SIGIR 2017) [[paper]](https://arxiv.org/abs/1705.10513)[[code]](https://github.com/geek-ai/irgan)
 
@@ -61,6 +64,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu's Sponsored Search**. *Miao Fan, Jiacheng Guo, Shuai Zhu, Shuo Miao, Mingming Sun, Ping Li*. (KDD 2019) [[paper]](https://dl.acm.org/doi/10.1145/3292500.3330651)
 - **Embedding-based Retrieval in Facebook Search**. *Jui-Ting Huang, Ashish Sharma, Shuying Sun, Li Xia, David Zhang, Philip Pronin, Janani Padmanabhan, Giuseppe Ottaviano, Linjun Yang*. (KDD 2020) [[paper]](https://arxiv.org/abs/2006.11632)
 - **Learning to Build User-tag Profile in Recommendation System**. *Su Yan, Xin Chen, Ran Huo, Xu Zhang, Leyu Lin*. (CIKM 2020) [[paper]](https://dl.acm.org/doi/10.1145/3340531.3412719)
+- **Managing Diversity in Airbnb Search**. *Mustafa Abdool, Malay Haldar, Prashant Ramanathan, Tyler Sax, Lanbo Zhang, Aamir Mansawala, Shulin Yang, Thomas Legrand*. (KDD 2020) [[paper]](https://arxiv.org/abs/2004.02621)
 
 ## Survey/Tutorial
 - **Deep Learning for Matching in Search and Recommendation**. *Jun Xu, Xiangnan He, Hang Li*. (SIGIR 2018) [[slides]](http://staff.ustc.edu.cn/~hexn/sigir18-deep.pdf)[[paper]](https://dl.acm.org/doi/pdf/10.1145/3209978.3210181)
