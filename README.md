@@ -119,6 +119,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [milvus-io / Milvus](https://github.com/milvus-io/milvus) - An open source vector similarity search engine
 - [pixelogik / NearPy](https://github.com/pixelogik/NearPy) - Python framework for fast ANN search in large, high-dimensional datasets
 - [primetang / pyflann](https://github.com/primetang/pyflann) - python bindings for FLANN
+- [scatterlab / faiss-serving](https://github.com/scatterlab/faiss-serving) - A lightweight Faiss HTTP Server
 - [Spotify / Annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [Vearch / Vearch](https://github.com/vearch/vearch) - A distributed system for efficient similarity search of embedding vectors
 - [Vearch / Gamma](https://github.com/vearch/gamma) - Real time vector search engine
