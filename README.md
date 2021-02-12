@@ -41,6 +41,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **MiNet: Mixed Interest Network for Cross-Domain Click-Through Rate Prediction**. *Wentao Ouyang, Xiuwu Zhang, Lei Zhao, Jinmei Luo, Yu Zhang, Heng Zou, Zhaojie Liu, Yanlong Du*. (CIKM 2020) [[paper]](https://arxiv.org/abs/2008.02974)[[blog]](https://mp.weixin.qq.com/s/jkGb_qkfmEOEs030ZRIJIw)
 - **Operation-aware Neural Networks for User Response Prediction**. *Yi Yang, Baile Xu, Furao Shen, Jian Zhao*. (Neural Networks Volume 121, January 2020) [[paper]](https://arxiv.org/abs/1904.12579) - ***ONN NFFM***
 - **CAN: Revisiting Feature Co-Action for Click-Through Rate Prediction**. *Guorui Zhou, Weijie Bian, Kailun Wu, Lejian Ren, Qi Pi, Yujing Zhang, Can Xiao, Xiang-Rong Sheng, Na Mou, Xinchen Luo, Chi Zhang, Xianjie Qiao, Shiming Xiang, Kun Gai, Xiaoqiang Zhu, Jian Xu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.05625)[[code]](https://github.com/CAN-Paper/Co-Action-Network)[[blog]](https://mp.weixin.qq.com/s/gf_Esw96j5TzVEVDNW45aA)
+- **FuxiCTR: An Open Benchmark for Click-Through Rate Prediction**. *Jieming Zhu, Jinyang Liu, Shuai Yang, Qi Zhang, Xiuqiang He*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2009.05794)
 
 ### Sequential RecSys
 - **BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer**. *Fei Sun, Jun Liu, Jian Wu, Changhua Pei, Xiao Lin, Wenwu Ou, Peng Jiang*. (CIKM 2019) [[paper]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)
@@ -137,10 +138,12 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 ### Recommendation System
 - **MIND: A Large-scale Dataset for News Recommendation**. *Fangzhao Wu, Ying Qiao, Jiun-Hung Chen, Chuhan Wu, Tao Qi, Jianxun Lian, Danyang Liu, Xing Xie, Jianfeng Gao, Winnie Wu, Ming Zhou*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.331/)[[data]](https://msnews.github.io/)
 
-## Articles/Posts
+## Articles & Posts
 ### Chinese
+- [Coggle / 深入理解推荐系统：十大序列化推荐算法梳理](https://mp.weixin.qq.com/s/x8G6Hkq_ocdO1efnCOVfHg)
 - [EE_NovRain / 各大公司广泛使用的在线学习算法FTRL详解](http://www.cnblogs.com/EE-NovRain/p/3810737.html)
 - [Johnson0722 / CTR预估算法之FM, FFM, DeepFM及实践](https://blog.csdn.net/john_xyz/article/details/78933253)
+- [Ruhjkg / 2020年精排模型调研](https://zhuanlan.zhihu.com/p/335781101)
 - [良口三 / 从Triplet Loss看推荐系统中文章Embedding](https://zhuanlan.zhihu.com/p/138850070)
 - [辛俊波 / 线下auc涨，线上ctr/cpm跌的原因和解决办法](https://www.zhihu.com/question/32218407/answer/1172781649)
 - [七便士 / SDM(Sequential Deep Matching Model)的复现之路](https://zhuanlan.zhihu.com/p/141411747)
