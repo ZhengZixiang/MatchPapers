@@ -16,9 +16,11 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 
 ### Text Retrieval
 - **DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding**. *Yuyu Zhang, Ping Nie, Xiubo Geng, Arun Ramamurthy, Le Song, Daxin Jiang*. (SIGIR 2020) [[paper]](https://arxiv.org/abs/2002.12591)
+- **Dense Passage Retrieval for Open-Domain Question Answering**. *Vladimir Karpukhin, Barlas Oğuz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, Wen-tau Yih*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.04906)[[code]](https://github.com/facebookresearch/DPR) - ***DPR***
 - **ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT**. *Omar Khattab, Matei Zaharia*. (SIGIR 2020) [[paper]](https://arxiv.org/abs/2004.12832)[[code]](https://github.com/stanford-futuredata/ColBERT)
 - **Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring**. *Samuel Humeau, Kurt Shuster, Marie-Anne Lachaux, Jason Weston*. (ICLR 2020) [[paper]](https://arxiv.org/abs/1905.01969)[[unofficial code]](https://github.com/sfzhou5678/PolyEncoder)
 - **Pre-training Tasks for Embedding-based Large-scale Retrieval**. *Wei-Cheng Chang, Felix X. Yu, Yin-Wen Chang, Yiming Yang, Sanjiv Kumar*. (ICLR 2020) [[paper]](https://arxiv.org/abs/2002.03932)
+- **Distilling Knowledge from Reader to Retriever for Question Answering**. *Gautier Izacard, Edouard Grave*. (ICLR 2021) [[paper]](https://arxiv.org/abs/2012.04584)[[code]](https://github.com/lucidrains/distilled-retriever-pytorch)
 
 ### Recommadation System Retrieval & Matching
 - **CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks**. *Dong-Kyu Chae, Jinsoo  Kang, Sangwook  Kim, Jungtae  Lee*. (CIKM 2018) [[paper]](https://dl.acm.org/doi/10.1145/3269206.3271743)[[code]](https://github.com/ARASC/CFGAN)
@@ -80,6 +82,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [Coder-Yu / RecQ](https://github.com/Coder-Yu/RecQ)
 - [DA-southampton / NLP_ability](https://github.com/DA-southampton/NLP_ability) - 梳理自然语言处理工程师(NLP)需要积累的各方面知识
 - [DA-southampton / Tech_Aarticle](https://github.com/DA-southampton/Tech_Aarticle) - 深度学习模型在各大公司实际生产环境的应用讲解文章
+- [deepset-ai / haystack](https://github.com/deepset-ai/haystack) - Transformers at scale for question answering & neural search. Using NLP via a modular Retriever-Reader-Pipeline.
 - [guoday / ctrNet-tool](https://github.com/guoday/ctrNet-tool) - This's the tool for CTR, including FM, FFM, NFFM and so on
 - [guyulongcs / Deep-Reinforcement-Learning-for-Recommender-Systems](https://github.com/guyulongcs/Deep-Reinforcement-Learning-for-Recommender-Systems) - DRL for RecSys papers
 - [JepsonWong / Text_Matching](https://github.com/JepsonWong/Text_Matching) - 文本匹配算法
@@ -162,6 +165,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [邓邓最棒 / 海量文本求topk相似：faiss库初探](https://mp.weixin.qq.com/s/lS4sn1BFf-kvEKi4Ve74pQ)
 - [丁香园 / 丁香园在语义匹配任务上的探索与实践](https://zhuanlan.zhihu.com/p/69356170)
 - [丁香园 / 搜索中的Query扩展技术](https://zhuanlan.zhihu.com/p/138551957)
+- [丁香园 / 搜索中的Query扩展技术（二）](https://mp.weixin.qq.com/s/2Phu-syd8IKLuwJph6URhA)
 - [Giant / K近邻算法哪家强？KDTree、Annoy、HNSW原理和使用方法介绍](https://zhuanlan.zhihu.com/p/152522906)
 - [花椒 / 智能推荐算法在直播场景中的应用](https://mp.weixin.qq.com/s/Pf0BFcBIyJnbIsz24X2NMQ)
 - [京东 / 深度解析京东个性化推荐系统演进史](https://blog.csdn.net/qq_40027052/article/details/78733365)
@@ -171,6 +175,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [每天都要机器学习 / 基于向量的深层语义相似文本召回？你需要bert和faiss](https://mp.weixin.qq.com/s/3RPEabFtgIloIEMMPqPrlw)
 - [美团 / 深度学习在美团点评推荐平台排序中的运用](https://mp.weixin.qq.com/s/847h4ITQMtUlZcurJ9Vlvg?scene=25##)
 - [美团 / MT-BERT在文本检索任务中的实践](https://tech.meituan.com/2020/08/20/mt-bert-in-document.html)
+- [PaperWeekly / BERT在文档级排序中的应用](https://mp.weixin.qq.com/s/IlQxziByXkIz5aiSb6FneQ)
 - [平安寿险PAI / AAAI 2020 | 基于Transformer的对话选择语义匹配模型](https://mp.weixin.qq.com/s/s-P_YVkdafUUT0VA_rBaZw)
 - [浅梦的学习笔记 / DCN-M：Google提出改进版DCN，用于大规模排序系统的特征交叉学习(附代码)](https://mp.weixin.qq.com/s/0qidwbxyfTkODTw2DIiRWw)
 - [清雨影 / TOP N 推荐神器 Ranknet加速史（附Pytorch实现）](https://zhuanlan.zhihu.com/p/148262580)
@@ -185,7 +190,8 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [王鸿伟 / DNN可以进行高阶特征交互，为什么Wide&Deep和DeepFM等模型仍然需要显式构造Wide部分？](https://www.zhihu.com/question/364517083)
 - [吴海波 / 乱弹机器学习评估指标AUC](https://zhuanlan.zhihu.com/p/52930683)
 - [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
-- [夕小瑶 / 2020深度文本匹配最新进展：精度、速度我都要！](https://mp.weixin.qq.com/s/UcNhNgiASKhxBbcXGEz0tw)
+- [夕小瑶的卖萌屋 / 2020深度文本匹配最新进展：精度、速度我都要！](https://mp.weixin.qq.com/s/UcNhNgiASKhxBbcXGEz0tw)
+- [夕小瑶的卖萌屋 / Facebook刷新开放域问答SOTA：模型训模型！Reader当Teacher！](https://mp.weixin.qq.com/s/90eWqedpiS5o037QByXe0A)
 - [一块小蛋糕 / 推荐系统总结之深度召回模型（上）](https://zhuanlan.zhihu.com/p/267263561)
 - [一小撮人 / Fiass - Getting started](https://zhuanlan.zhihu.com/p/102278151)
 - [一小撮人 / Fiass - Faster search、Lower memory 、Run on GPUs](https://zhuanlan.zhihu.com/p/102281896)
@@ -196,4 +202,6 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [一小撮人 / Fiass - 常见问题总结](https://zhuanlan.zhihu.com/p/107241260)
 - [一小撮人 / 一文带你了解Annoy！](https://zhuanlan.zhihu.com/p/109633593)
 - [知乎 / Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/MAfK4B2F8sPXRLodXkwnmw)
+- [知乎 / 知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/xgCtgEMRZ1VgzRZWjYIjTQ)
+- [知乎 / 知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/DZZ_BCiNw0EZg7V0KvhXVw)
 - [字节跳动 / 3分钟了解今日头条推荐算法原理（附视频+PPT）](http://www.sohu.com/a/217314007_297710)
