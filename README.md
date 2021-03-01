@@ -14,7 +14,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **Enhanced-RCNN: An Efficient Method for Learning Sentence Similarity**. *Shuang Peng, Hengbin Cui, Niantao Xie, Sujian Li, Jiaxing Zhang, Xiaolong Li*. (WWW 2020) [[paper]](https://dl.acm.org/doi/10.1145/3366423.3379998)
 - **Match^2: A Matching over Matching Model for Similar Question Identification**. *Zizhen Wang, Yixing Fan, Jiafeng Guo, Liu Yang, Ruqing Zhang, Yanyan Lan, Xueqi Cheng, Hui Jiang, Xiaozhao Wang*. (SIGIR 2020) [[paper]](https://arxiv.org/abs/2006.11719)
 - **CLEAR: Contrastive Learning for Sentence Representation**. *Zhuofeng Wu, Sinong Wang, Jiatao Gu, Madian Khabsa, Fei Sun, Hao Ma*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2012.15466)
-- **Using Prior Knowledge to Guide BERT's Attention in Semantic Textual Matching Tasks**. *Tingyu Xia, Yue Wang, Yuan Tian, Yi Chang*. () [[paper]](https://arxiv.org/abs/2102.10934)[[code]](https://github.com/xiatingyu/Bert_sim)
+- **Using Prior Knowledge to Guide BERT's Attention in Semantic Textual Matching Tasks**. *Tingyu Xia, Yue Wang, Yuan Tian, Yi Chang*. (WWW 2021) [[paper]](https://arxiv.org/abs/2102.10934)[[code]](https://github.com/xiatingyu/Bert_sim)
 
 ### Text Retrieval
 - **DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding**. *Yuyu Zhang, Ping Nie, Xiubo Geng, Arun Ramamurthy, Le Song, Daxin Jiang*. (SIGIR 2020) [[paper]](https://arxiv.org/abs/2002.12591)
