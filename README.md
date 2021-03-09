@@ -49,6 +49,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 
 ### Sequential RecSys
 - **BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer**. *Fei Sun, Jun Liu, Jian Wu, Changhua Pei, Xiao Lin, Wenwu Ou, Peng Jiang*. (CIKM 2019) [[paper]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)
+- **Non-invasive Self-attention for Side Information Fusion in Sequential Recommendation**. *Chang Liu, Xiaoguang Li, Guohao Cai, Zhenhua Dong, Hong Zhu, Lifeng Shang*. (AAAI 2021) [[paper]](http://arxiv.org/abs/2103.03578)[[Chinese blog]](https://mp.weixin.qq.com/s/FQLMEyVYJiP3OXRLFwCqkQ) - ***NOVA-BERT****
 
 ### LTR
 - **IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**. *Jun Wang, Lantao Yu, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang, Dell Zhang*. (SIGIR 2017) [[paper]](https://arxiv.org/abs/1705.10513)[[code]](https://github.com/geek-ai/irgan)
@@ -177,6 +178,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [每天都要机器学习 / 基于向量的深层语义相似文本召回？你需要bert和faiss](https://mp.weixin.qq.com/s/3RPEabFtgIloIEMMPqPrlw)
 - [美团 / 深度学习在美团点评推荐平台排序中的运用](https://mp.weixin.qq.com/s/847h4ITQMtUlZcurJ9Vlvg?scene=25##)
 - [美团 / MT-BERT在文本检索任务中的实践](https://tech.meituan.com/2020/08/20/mt-bert-in-document.html)
+- [美团 / BERT在美团搜索业务中的应用](https://www.bilibili.com/video/BV1vC4y147px)
 - [PaperWeekly / BERT在文档级排序中的应用](https://mp.weixin.qq.com/s/IlQxziByXkIz5aiSb6FneQ)
 - [平安寿险PAI / AAAI 2020 | 基于Transformer的对话选择语义匹配模型](https://mp.weixin.qq.com/s/s-P_YVkdafUUT0VA_rBaZw)
 - [浅梦的学习笔记 / DCN-M：Google提出改进版DCN，用于大规模排序系统的特征交叉学习(附代码)](https://mp.weixin.qq.com/s/0qidwbxyfTkODTw2DIiRWw)
