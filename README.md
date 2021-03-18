@@ -211,3 +211,4 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [知乎 / 知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/xgCtgEMRZ1VgzRZWjYIjTQ)
 - [知乎 / 知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/DZZ_BCiNw0EZg7V0KvhXVw)
 - [字节跳动 / 3分钟了解今日头条推荐算法原理（附视频+PPT）](http://www.sohu.com/a/217314007_297710)
+- [搜索推荐广告排序艺术 谷育龙Eric / CIKM 2020 搜索推荐广告论文集锦](https://mp.weixin.qq.com/s/YYogCRJlIU7smQ3FJpaPPg)
