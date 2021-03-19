@@ -176,6 +176,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [京东 / 京东搜索在线学习探索实践](https://mp.weixin.qq.com/s/vG9grX_V0ksxIOJwWKMVPw)
 - [科学空间 / 从EMD、WMD到WRD：文本向量序列的相似度计算](https://kexue.fm/archives/7388)
 - [liqima / Faiss wiki in Chinese](https://github.com/liqima/faiss_note)
+- [李rumor / 21个经典深度学习句间关系模型｜代码&技巧](https://mp.weixin.qq.com/s/SH2FaDZH6lw8hy3Ym8esTw)
 - [Merria28 / 相似度检测——hnsw参数选择](https://zhuanlan.zhihu.com/p/98028479)
 - [每天都要机器学习 / 基于向量的深层语义相似文本召回？你需要bert和faiss](https://mp.weixin.qq.com/s/3RPEabFtgIloIEMMPqPrlw)
 - [美团 / 深度学习在美团点评推荐平台排序中的运用](https://mp.weixin.qq.com/s/847h4ITQMtUlZcurJ9Vlvg?scene=25##)
