@@ -208,6 +208,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [一小撮人 / Faiss - Binary indexes, Composite indexes](https://zhuanlan.zhihu.com/p/105214010)
 - [一小撮人 / Fiass - 常见问题总结](https://zhuanlan.zhihu.com/p/107241260)
 - [一小撮人 / 一文带你了解Annoy！](https://zhuanlan.zhihu.com/p/109633593)
+- [张俊林 / SENet双塔模型：在推荐领域召回粗排的应用及其它](https://zhuanlan.zhihu.com/p/358779957)
 - [知乎 / Query 理解和语义召回在知乎搜索中的应用](https://mp.weixin.qq.com/s/MAfK4B2F8sPXRLodXkwnmw)
 - [知乎 / 知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/xgCtgEMRZ1VgzRZWjYIjTQ)
 - [知乎 / 知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/DZZ_BCiNw0EZg7V0KvhXVw)
