@@ -24,6 +24,12 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - **Pre-training Tasks for Embedding-based Large-scale Retrieval**. *Wei-Cheng Chang, Felix X. Yu, Yin-Wen Chang, Yiming Yang, Sanjiv Kumar*. (ICLR 2020) [[paper]](https://arxiv.org/abs/2002.03932)
 - **Distilling Knowledge from Reader to Retriever for Question Answering**. *Gautier Izacard, Edouard Grave*. (ICLR 2021) [[paper]](https://arxiv.org/abs/2012.04584)[[code]](https://github.com/lucidrains/distilled-retriever-pytorch)
 
+### Sentence Embedding
+- **On the Sentence Embeddings from Pre-trained Language Models**. *Bohan Li, Hao Zhou, Junxian He, Mingxuan Wang, Yiming Yang, Lei Li*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2011.05864)[[code]](https://github.com/bohanli/BERT-flow) - ***BERT-flow***
+
+### Query Expansion
+- **BERT-QE: Contextualized Query Expansion for Document Re-ranking**. *Zhi Zheng, Kai Hui, Ben He, Xianpei Han, Le Sun, Andrew Yates*. (Findings of EMNLP 2020) [[paper]](https://arxiv.org/abs/2009.07258)[[code]](https://github.com/zh-zheng/BERT-QE)
+
 ### Recommadation System Retrieval & Matching
 - **CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks**. *Dong-Kyu Chae, Jinsoo  Kang, Sangwook  Kim, Jungtae  Lee*. (CIKM 2018) [[paper]](https://dl.acm.org/doi/10.1145/3269206.3271743)[[code]](https://github.com/ARASC/CFGAN)
 - **Multi-Interest Network with Dynamic Routing for Recommendation at Tmall**. *Chao Li, Zhiyuan Liu, Mengmeng Wu, Yuchi Xu, Pipei Huang, Huan Zhao, Guoliang Kang, Qiwei Chen, Wei Li, Dik Lun Lee*. (CIKM 2019) [[paper]](https://arxiv.org/abs/1904.08030) - ***MIND***
@@ -159,6 +165,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [阿里 / Life-long兴趣建模视角CTR预估模型：Search-based Interest Model](https://zhuanlan.zhihu.com/p/148416488)
 - [阿里 / 阿里妈妈深度树匹配技术演进3.0：TDM->JTM->BSAT](https://mp.weixin.qq.com/s/Nd9vCggZ3RfWLMpZ9JRKdQ)
 - [阿里 / 阿里粗排技术体系与最新进展](https://mp.weixin.qq.com/s/CN3a4Zb4yEjgi4mkm2lX6w)
+- [阿里 / 阿里妈妈品牌广告中的 NLP 算法实践](https://mp.weixin.qq.com/s/Kt70i7s7THU0s6zzALtBfQ)
 - [coolhok / faiss-learning学习文档](https://github.com/coolhok/faiss-learning)
 - [Chenny / 传统文本匹配算法详解（附代码）](https://zhuanlan.zhihu.com/p/138848302)
 - [cmathx / 搜索推荐召回&&粗排相关性优化最新进展—2020](https://zhuanlan.zhihu.com/p/195548025)
@@ -194,6 +201,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [腾讯 / 万字长文读懂微信“看一看”内容理解与推荐](https://mp.weixin.qq.com/s/ZS1NUPJmkWzWcEU2x3jq1A)
 - [腾讯 / 搜你所想，从Query意图识别到类目识别的演变](https://mp.weixin.qq.com/s/s8swIdAPw_VeAWnZTL1riA)
 - [腾讯 / 全面理解搜索Query：当你在搜索引擎中敲下回车后，发生了什么？](https://zhuanlan.zhihu.com/p/112719984)
+- [腾讯 / 为看一看及搜一搜“去污”，AI怎么做到的？](https://mp.weixin.qq.com/s/D_4G_OWtmLN8hrYM8PThHg)
 - [王鸿伟 / DNN可以进行高阶特征交互，为什么Wide&Deep和DeepFM等模型仍然需要显式构造Wide部分？](https://www.zhihu.com/question/364517083)
 - [吴海波 / 乱弹机器学习评估指标AUC](https://zhuanlan.zhihu.com/p/52930683)
 - [Yong Yuan / 图像检索：向量索引](http://yongyuan.name/blog/vector-ann-search.html)
