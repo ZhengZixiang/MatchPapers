@@ -104,7 +104,9 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 - [mJackie / RecSys](https://github.com/mJackie/RecSys)
 - [pengming617 / text_matching](https://github.com/pengming617/text_matching)
 - [RediSearch / RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
-- [RUCAIBox / RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
+- [RUC AI Box / Awesome-RSPapers](https://github.com/RUCAIBox/Awesome-RSPapers) - Recommender System Papers
+- [RUC AI Box / RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
+- [RUC AI Box / RecSysDatasets](https://github.com/RUCAIBox/RecSysDatasets) - This is a repository of public data sources for Recommender Systems (RS).
 - [shenweichen / DeepMatch](https://github.com/shenweichen/DeepMatch)
 - [shenweichen / DeepCTR](https://github.com/shenweichen/DeepCTR)
 - [shenweichen / DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch)
