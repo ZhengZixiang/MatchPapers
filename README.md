@@ -154,3 +154,8 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 
 ### Recommendation System
 - **MIND: A Large-scale Dataset for News Recommendation**. *Fangzhao Wu, Ying Qiao, Jiun-Hung Chen, Chuhan Wu, Tao Qi, Jianxun Lian, Danyang Liu, Xing Xie, Jianfeng Gao, Winnie Wu, Ming Zhou*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.331/)[[data]](https://msnews.github.io/)
+
+## Chinese Blog
+- [Billlee](https://www.zhihu.com/people/billlee-83)
+  - [推荐系统之样本加权](https://zhuanlan.zhihu.com/p/281434497)
+  - [推荐系统之标签修正](https://zhuanlan.zhihu.com/p/274893689)
