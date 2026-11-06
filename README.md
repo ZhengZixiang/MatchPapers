@@ -29,6 +29,7 @@ Suggestions about adding papers, repositories and other resources are welcomed!
 
 ### Query Expansion
 - **BERT-QE: Contextualized Query Expansion for Document Re-ranking**. *Zhi Zheng, Kai Hui, Ben He, Xianpei Han, Le Sun, Andrew Yates*. (Findings of EMNLP 2020) [[paper]](https://arxiv.org/abs/2009.07258)[[code]](https://github.com/zh-zheng/BERT-QE)
+- **ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance**. *Sijia Yao, Pengcheng Huang, Zhenghao Liu, Yu Gu, Yukun Yan, Shi Yu, Ge Yu*. (EMNLP 2025) [[paper]](https://aclanthology.org/2025.emnlp-main.963/)[[code]](https://github.com/NEUIR/ExpandR)
 
 ### Recommadation System Retrieval & Matching
 - **CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks**. *Dong-Kyu Chae, Jinsoo  Kang, Sangwook  Kim, Jungtae  Lee*. (CIKM 2018) [[paper]](https://dl.acm.org/doi/10.1145/3269206.3271743)[[code]](https://github.com/ARASC/CFGAN)
